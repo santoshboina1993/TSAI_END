@@ -51,5 +51,5 @@ Learning rate: 0.1 to 1.0
 
 
 5. What happens to the error graph as learning rate increases?
-Learning rate is helpful in adjusting the weight of the neural network with respect to the loss gradient. At lower values, the travel time towards the downward slope is slower, as the learning rate increases the travel time towards the downward time is faster. The same can be inferred from the above screenshots, ranging from 0.1 to 2.0
+    Learning rate is helpful in adjusting the weight of the neural network with respect to the loss gradient. At lower values, the travel time towards the downward slope is slower, as the learning rate increases the travel time towards the downward time is faster. The same can be inferred from the above screenshots, ranging from 0.1 to 2.0
 
