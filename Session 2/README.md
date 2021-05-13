@@ -47,7 +47,7 @@ Steps taken:
 
 
 Learning rate: 0.1 to 1.0
-![image](https://user-images.githubusercontent.com/28112776/118125070-7f8f6d00-b3c4-11eb-8acd-4ff8f8e093d2.png)
+![image](learning_rate.JPG)
 
 
 5. What happens to the error graph as learning rate increases?
