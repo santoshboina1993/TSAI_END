@@ -1,7 +1,9 @@
-**Group Members**
-Santosh Boina - santoshb183@gmail.com
-Sai Ashok Kumar Reddy - saiashokumareddy@gmail.com
-Jayasankar Raju S - muralis2raj@gmail.com
+# Assignment 2
+### Group Members
+Santosh Boina - santoshb183@gmail.com              
+Sai Ashok Kumar Reddy - saiashokumareddy@gmail.com                
+Jayasankar Raju S - muralis2raj@gmail.com             
+
 
 Steps taken:
 1. We have created a feed forward neural network, with backpropagation  algorithm to adjust the weights based on the error rate obtained in the previous epoch in a way to reduce error rates and make the model reliable.
